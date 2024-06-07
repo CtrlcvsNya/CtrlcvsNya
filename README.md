@@ -1,8 +1,11 @@
 <h2>Hi there 👋</h2>
-
 This is CtrlcvsNya.
 
-Currently, I am majoring in Kotlin and Python, but I'm also proficient in other programming languages. 🤗
+Currently, I am majoring in Java and Kotlin, and I am also proficient in other programming languages such as TypeScript, JavaScript, Python, and Vue3. 🤗
+
+I am currently learning Golang. 🖊
+
+I am a full-stack engineer💻, responsible for both front-end and back-end development.
 
 You're welcome to visit my 'homepage' or 'blog' to learn more about me.
 
