@@ -1,9 +1,9 @@
 <h2>Hi there 👋</h2>
 This is CtrlcvsNya.
 
-Currently, I am majoring in Java and Kotlin, and I am also proficient in other programming languages such as TypeScript, JavaScript, Python, and Vue3. 🤗
+Currently, I am majoring in Java and Kotlin, and I am also proficient in other programming languages such as TypeScript, JavaScript, Python, React, and Vue3. 🤗
 
-I am currently learning Rust. 🖊
+I am currently learning React and Rust. 🖊
 
 I am a full-stack engineer💻, responsible for both front-end and back-end development.
 
